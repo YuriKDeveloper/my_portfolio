@@ -129,7 +129,7 @@ const Contact = () => {
         whileInView="show"
         className="xl:flex-1 xl:h-auto md:h-[550px] h-[350px]"
       >
-        <img className="mt-[60px]" src="/cover3.png" alt="cover2" />
+        <img className="mt-[60px]" src="./cover3.png" alt="cover2" />
       </motion.div>
     </div>
   );
