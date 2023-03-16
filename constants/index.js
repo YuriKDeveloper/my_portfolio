@@ -72,12 +72,12 @@ export const socials = [
 
   {
     name: 'linkedin',
-    url: '/linkedin.svg',
+    url: './linkedin.svg',
     urlLink: 'https://www.linkedin.com/in/yuri-gabriel-laurindo/',
   },
   {
     name: 'instagram',
-    url: '/instagram.svg',
+    url: './instagram.svg',
     urlLink: 'https://www.instagram.com/yuri.oichi/',
   },
 ];
